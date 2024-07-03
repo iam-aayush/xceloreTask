@@ -24,7 +24,7 @@ This project is a backend API developed using Spring Boot and Hibernate. It allo
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Basusahu231/Xcelore_Api_Task.git
+https://github.com/iam-aayush/xceloreTask.git
 ```
 ![Screenshot (380)](https://github.com/Basusahu231/Xcelore_Api_Task/assets/134209007/18e3e54a-0f4e-4ed6-a087-285e9eac2a31)
 ![Screenshot (381)](https://github.com/Basusahu231/Xcelore_Api_Task/assets/134209007/0228fddb-354a-4f5c-a8d3-f6e07fc5ade1)
